@@ -1,0 +1,14 @@
+Recruiting the right candidate is often a time-consuming and complex
+ process for organizations. HireIQ aims to simplify and improve this process
+ through an intelligent, automated recruitment system powered by a multi-agent
+ framework. In this system, different agents work together to handle tasks such
+ as resume screening, background verification, candidate ranking, interview
+ scheduling, and communication with applicants. These agents operate under a
+ Master Agent, which coordinates their activities to ensure everything runs
+ smoothly. By combining artificial intelligence with Large Language Models
+ (LLMs), HireIQ can understand job requirements, evaluate candidates more
+ accurately, and adapt to various hiring needs. This approach helps reduce
+ manual effort and human bias while speeding up the entire recruitment cycle.
+ Designed to be flexible and scalable, HireIQ brings transparency, efficiency, and
+ fairness into the hiring process, showing how intelligent systems can make
+ recruitment more effective and candidate-friendly.
